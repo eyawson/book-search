@@ -1,0 +1,25 @@
+{
+  "name": "book-search",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eyawson/book-search.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/eyawson/book-search/issues"
+  },
+  "homepage": "https://github.com/eyawson/book-search#readme",
+  "dependencies": {
+    "commander": "^5.0.0",
+    "inquirer": "^7.1.0",
+    "node-fetch": "^2.6.0"
+  }
+}
